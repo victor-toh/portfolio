@@ -15,9 +15,9 @@ Determining different member user behaviour for a bicycle rental app platform.
 [Project 3 Title](http://example.com/)
 
 
----
+---B
 
-### Category Name 2
+### Business Intelligence
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
