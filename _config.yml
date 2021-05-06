@@ -1,16 +1,20 @@
 title: Victor Toh Wei Jie # your name (or website title) here
 logo: "/images/profilepic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
+  Summary and Skills
+  <hr>
   Meticulous individual passionate in the data analytics and BI industry. Key skills include
-  <br><br>
-  Python (Pandas), Data Visualisation
+    <ul>
+      <li>Python (Pandas)</li>
+      <li>SQL</li>
+      <li>Power BI</li>
+    </ul>
   <br><br>
   <b>Certifications</b>
   <hr>
-  <br><br>
   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/XFDXD34NHQQA">Google Data Analytics Certification on Coursera</a>
   <br><br>
+  <hr>
   <a href="https://www.linkedin.com/in/victor-toh-wei-jie-0812ab15a/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
