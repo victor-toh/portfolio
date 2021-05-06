@@ -18,7 +18,7 @@ Deeper insights of trading behaviour on cryptocurrency exchanges: Coinhako and B
 
 ### Business Intelligence
 
-- [Geo Viz]<a href="http://example.com/" target="_blank">Hello, world!</a>
+- <a href="http://example.com/" target="_blank">Hello, world!</a>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
@@ -28,7 +28,7 @@ Deeper insights of trading behaviour on cryptocurrency exchanges: Coinhako and B
 
 ### Certifications
 
-- [Google Data Analytics Certification on Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/XFDXD34NHQQA)
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/XFDXD34NHQQA" target="_blank">Google Data Analytics Certification on Coursera</a>
 
 
 
