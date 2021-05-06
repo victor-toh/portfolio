@@ -1,7 +1,6 @@
 title: Victor Toh Wei Jie # your name (or website title) here
 logo: "/images/profilepic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
   <b>Summary and Skills</b>
   <hr { display: block; margin-before: 0.5em; margin-after: 0.5em; margin-start: auto; margin-end: auto; overflow: hidden; border-style: inset; border-width: 1px;}>
   Meticulous individual passionate in the data analytics and BI industry. Key skills include Python Pandas, SQL and Power BI.
