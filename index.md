@@ -8,14 +8,13 @@
 Determining different member user behaviour for a bicycle rental app platform.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Crypto Transactions](https://github.com/victortoh95/Data-Analytics-Projects/blob/0191d96b4a962ac278cf69c9c35f83aca71acafc/Crpyto%20Transactions.ipynb)
+
+Deeper insights of trading behaviour on cryptocurrency exchanges: Coinhako and Binance.
 
 
 ---
-[Project 3 Title](http://example.com/)
 
-
----B
 
 ### Business Intelligence
 
