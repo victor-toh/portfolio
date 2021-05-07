@@ -18,7 +18,7 @@ Deeper insights of trading behaviour on cryptocurrency exchanges: Coinhako and B
 
 ### Business Intelligence
 
-[<img src="images/Geographical Income Distribution.jpg?raw=true"/>](http://www.google.com.sg)
+<a href="www.google.com.sg" target="_blank"><img src="images/Geographical Income Distribution.jpg?raw=true"/></a>
 
 ---
 
