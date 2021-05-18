@@ -24,7 +24,8 @@ Deeper insights of trading behaviour on cryptocurrency exchanges: Coinhako and B
 
 ### Certifications
 
-- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/XFDXD34NHQQA" target="_blank">Google Data Analytics Certification on Coursera</a>
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/XFDXD34NHQQA" target="_blank">Google Data Analytics Certification on Coursera</a>/
+- <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K72XJW6Z9JNX" target="_blank">IBM Data Analyst Certification on Coursera</a>/
 
 
 
